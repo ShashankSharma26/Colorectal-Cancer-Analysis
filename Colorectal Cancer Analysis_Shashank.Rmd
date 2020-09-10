@@ -3,8 +3,7 @@ title: "Colorectal Cancer Analysis"
 author: "Shashank Sharma"
 date: "19/08/2020"
 output:
-  html_document: default
-  word_document: default
+  rmarkdown::github_document
 ---
 
 This document explains the insights derived from analysing the dataset describing the cases diagnosed with Colorectal Cancer from 2008 to 2017. The analysis is divided into three sections based on:
